@@ -1,1 +1,3 @@
 # Exercises
+
+Dear students,
